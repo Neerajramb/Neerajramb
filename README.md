@@ -35,8 +35,8 @@ I'm a Computer Science student from India, passionate about building things for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neerajramb&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=A78BFA&border_color=30363D&border_radius=16" alt="Neeraj's GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajramb&layout=compact&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D&border_radius=16" alt="Top languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="Neeraj's GitHub stats"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 <p align="center">
   <img width="98%" src="https://streak-stats.demolab.com?user=Neerajramb&background=0D1117&border=30363D&stroke=30363D&ring=A78BFA&fire=F472B6&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E&border_radius=16" alt="GitHub streak"/>
