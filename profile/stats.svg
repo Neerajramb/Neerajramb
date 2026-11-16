@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Neeraj Ram B&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 50, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 52, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #A78BFA;
+            fill: #C4553B;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #5B5047;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #5B5047;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #22D3EE;
+      fill: #7E8F57;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #A78BFA;
+      stroke: #C4553B;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #A78BFA;
+      stroke: #C4553B;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 247.99656102216656;
+        stroke-dashoffset: 247.9405089630971;
       }
     }
   
@@ -114,11 +114,11 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="16"
+          rx="22"
           height="99%"
-          stroke="#30363D"
+          stroke="#E3D6C3"
           width="466"
-          fill="#0D1117"
+          fill="#F5EEE3"
           stroke-opacity="1"
         />
 
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >50</text>
+      >52</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
