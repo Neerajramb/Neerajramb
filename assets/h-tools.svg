@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132" role="img" aria-label="No. 03 — tools &amp; mediums">
+<style>
+@font-face{font-family:'NRP';src:url(data:font/woff2;base64,d09GMgABAAAAAAO0ABAAAAAABrAAAANYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgUgcKgZgP1NUQVRIAFwRCAqERINoATYCJAMcCxAABCAFcgcgDAcbMAVRlC3KzRBfHPBkvAYHErhQvRYcVRhW0qO5p7FoU4VzVTzAP3iM6Pn9XmfPux84pKIKpBAUooqwUVWKhKoxLFGYspCtjiv/ZJf/JnuB52J5ImAvgKtUAEqoxf+uYB7yb++uU44CjAMpbEvP2kKOEsj0N8C/Oez+dy/kPHWTawPm8RJMMxxjAqbRA3ZvGNCfhwHF8QINKPGAIEBPd6pLnbuoNyf6JIIpoJQo0dcXwdguh9Xi5hMCAgcpzgUBDf4TZE8pzAUuBNGMDJWxFVFYEoX9YklDZ90220Sn6emLPqKh7NNw2DmUxv8A8L+2AEQnSk9ETwC1iIq6VtR77GMkHF+g5SyP9agnNwBcD6dkA5E4ipTxe1xaPQBeU3C/Ttej3X4jUFnvgW06EUOFNYVd6kpLL0bYPEk2molmTYeK5DH1ohMVcxBQ6LCmE6xprgBzQ6Vvm/0OOuKWvIGnm3vf+tSHnjYgrfEZLK4yAHOM8BJbgAZKlBKh1XwTzIcFTPmq+nycZMrgL7O+PQlF0zyZrX5qxxSWL3nocxW0tTeDqIbpTTO0dMHL2hLPuOQueJXFenyEfnjAIp+eUMPzsyf9AP1o7jNDn8pEqCXpU7zgJ6XJBlDTFF2ZXgbdBhd56GHUMILulkT39ikOeegHHbWZs+dw1gH0Pg99iBqO5JMYjF3GkGzhdSFMnYlgxS3VUA5ejoV2rHKdQESYvVKSCkiEqbCt8lF1VQeLgKKkWMG3BPkV1SuSIILnJKUUgYkdUsxtyhISbEpDzsE+1VxL3TKSv7P0KGlt9Si2xIpXLAED7J7tYFsSEGBfm+/h45rjYFca4G9XU+DpxHQIaquM0sx2M9R0DGxXlKsBvGEtByknFfWzA2e92JdgBVNHEz0tHy+beK10UWMhBSLnZ6kXam5t4UN9SOfmKu1z/+cZsvV2K3up6X/V0HTRzuZ8+eemBDUFUqFStjUABBDG/37I3EzEC9r8HnbUZ8Av6++DBeD7tsckqmOznkwNfQXCsKf1AVi7oEapH+RhZ+kZrdzlQG6ASbyj6o/ZTwQDxz6E8rmecyipkTInFYSp+TglbEatv6C5sT3uSZGmRDaiULgUGdKkK+apGJEtQ5IgeXIQuSjg/63x4av839oDAAAA) format('woff2');font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:'NRP';src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:italic;font-display:block}
+
+  .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2s cubic-bezier(.65,0,.35,1) both; }
+  .fade { animation: fade 1.1s cubic-bezier(.2,.7,.2,1) both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop .8s cubic-bezier(.3,1.5,.5,1) both; }
+  .sway { transform-box: fill-box; transform-origin: 10% 100%; animation: sway 7s ease-in-out infinite alternate; }
+  .spin { transform-box: fill-box; transform-origin: center; animation: spin 24s linear infinite; }
+  .float { transform-box: fill-box; transform-origin: center; animation: float 6s ease-in-out infinite alternate; }
+  .drift1 { animation: drift1 18s ease-in-out infinite alternate; }
+  .drift2 { animation: drift2 22s ease-in-out infinite alternate; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes fade { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+  @keyframes pop { from { opacity: 0; transform: scale(.6) rotate(-8deg); } to { opacity: 1; transform: none; } }
+  @keyframes sway { from { transform: rotate(-2.5deg); } to { transform: rotate(2.5deg); } }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes float { from { transform: translateY(-4px) rotate(-1deg); } to { transform: translateY(5px) rotate(1.5deg); } }
+  @keyframes drift1 { to { transform: translate(40px, 18px); } }
+  @keyframes drift2 { to { transform: translate(-36px, -14px); } }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; }
+    .draw { stroke-dashoffset: 0; }
+  }
+
+  .num { font: 400 24px 'NRP','Playfair Display',Didot,Georgia,serif; fill: #C4553B; }
+  .tt { font: italic 400 50px 'NRP','Playfair Display',Didot,Georgia,serif; fill: #2B2622; }
+  .slide { animation: slide 1.1s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes slide { from { opacity: 0; transform: translateX(-24px) rotate(-1deg); } to { opacity: 1; transform: none; } }
+
+</style>
+<defs>
+  <filter id="graingNo03" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="4" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 .32  0 0 0 0 .24  0 0 0 0 .16  0 0 0 -1.6 1.15"/>
+  </filter>
+  <filter id="brushgNo03" x="-25%" y="-25%" width="150%" height="150%">
+    <feTurbulence type="fractalNoise" baseFrequency=".035" numOctaves="2" seed="7" result="edge"/>
+    <feDisplacementMap in="SourceGraphic" in2="edge" scale="16" xChannelSelector="R" yChannelSelector="G" result="rough"/>
+    <feTurbulence type="fractalNoise" baseFrequency=".008 .16" numOctaves="3" seed="11" result="streak"/>
+    <feColorMatrix in="streak" type="matrix" values="0 0 0 0 1  0 0 0 0 .98  0 0 0 0 .94  .9 0 0 0 -.38" result="lt"/>
+    <feComposite in="lt" in2="rough" operator="in" result="ltIn"/>
+    <feMerge><feMergeNode in="rough"/><feMergeNode in="ltIn"/></feMerge>
+  </filter>
+  <filter id="softgNo03" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="26"/></filter>
+  <filter id="inkwobgNo03" x="-10%" y="-10%" width="120%" height="120%">
+    <feTurbulence type="fractalNoise" baseFrequency=".06" numOctaves="1" seed="2" result="w"/>
+    <feDisplacementMap in="SourceGraphic" in2="w" scale="2.2" xChannelSelector="R" yChannelSelector="G"/>
+  </filter><clipPath id="labgNo03"><rect x="8" y="26" width="534" height="80" rx="14"/></clipPath></defs>
+<g class="slide"><g transform="rotate(-1.2 267 66)">
+  <rect x="8" y="26" width="534" height="80" rx="14" fill="#F5EEE3" stroke="#2B2622" stroke-width="1.3"/>
+  <g clip-path="url(#labgNo03)" opacity=".9"><path d="M567.2,88.7 C568.3,100.6 562.1,124.6 552.3,134.6 C542.4,144.7 522.1,152.5 508.4,149.0 C494.7,145.5 476.2,127.6 470.2,113.6 C464.1,99.6 467.9,76.4 472.2,64.9 C476.6,53.4 484.0,44.9 496.3,44.7 C508.5,44.4 533.6,55.9 545.5,63.3 C557.3,70.6 566.1,76.8 567.2,88.7Z" fill="#A9B98A" opacity="1.0" filter="url(#brushgNo03)"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M567.2,88.7 C568.3,100.6 562.1,124.6 552.3,134.6 C542.4,144.7 522.1,152.5 508.4,149.0 C494.7,145.5 476.2,127.6 470.2,113.6 C464.1,99.6 467.9,76.4 472.2,64.9 C476.6,53.4 484.0,44.9 496.3,44.7 C508.5,44.4 533.6,55.9 545.5,63.3 C557.3,70.6 566.1,76.8 567.2,88.7Z;M570.6,89.2 C568.4,99.6 548.3,117.5 536.8,124.8 C525.2,132.1 512.4,135.1 501.2,133.2 C490.1,131.3 475.4,124.9 469.8,113.6 C464.2,102.3 461.7,74.4 467.8,65.4 C474.0,56.5 492.9,60.5 506.6,60.0 C520.3,59.6 539.3,57.7 550.0,62.6 C560.6,67.4 572.8,78.9 570.6,89.2Z;M562.7,99.9 C564.4,111.9 559.2,132.5 550.1,139.0 C541.0,145.4 519.7,143.6 508.1,138.6 C496.5,133.6 485.6,119.0 480.6,108.9 C475.5,98.8 472.7,89.6 477.6,78.1 C482.6,66.6 499.7,41.8 510.1,39.9 C520.5,38.0 531.3,56.8 540.0,66.8 C548.8,76.8 561.0,87.9 562.7,99.9Z;M567.2,88.7 C568.3,100.6 562.1,124.6 552.3,134.6 C542.4,144.7 522.1,152.5 508.4,149.0 C494.7,145.5 476.2,127.6 470.2,113.6 C464.1,99.6 467.9,76.4 472.2,64.9 C476.6,53.4 484.0,44.9 496.3,44.7 C508.5,44.4 533.6,55.9 545.5,63.3 C557.3,70.6 566.1,76.8 567.2,88.7Z" keyTimes="0;.33;.66;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/></path><rect width="1200" height="132" rx="0" filter="url(#graingNo03)" opacity=".3"/></g>
+  <text x="34" y="80" class="num">No. 03</text>
+  <text x="117" y="84" class="tt">tools &amp; mediums</text>
+  <path d="M115,96 C222,90 365,101 478,93" fill="none" stroke="#C4553B"
+        stroke-width="2.4" stroke-linecap="round" pathLength="1" class="draw" style="animation-delay:.6s" filter="url(#inkwobgNo03)"/>
+</g>
+<rect x="493.953125" y="14" width="74" height="24" fill="#E9D3A8" opacity=".72" transform="rotate(14 530.953125 26.0)"/>
+<rect x="-6" y="92" width="60" height="22" fill="#D9E2C8" opacity=".72" transform="rotate(-18 24.0 103.0)"/>
+</g>
+<g transform="translate(583.953125,70)"><g class="pop" style="animation-delay:0.90s"><g class="spin"><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(0.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(40.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(80.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(120.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(160.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(200.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(240.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(280.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><ellipse cx="0" cy="-10.4" rx="3.6" ry="8.3" transform="rotate(320.0)" fill="#FBF7F0" stroke="#2B2622" stroke-width="1.2"/><circle r="4.3" fill="#F1D68A" stroke="#2B2622" stroke-width="1.2"/><circle r="1.3" cx="-1.1" cy="-0.9" fill="#C4553B" opacity=".6"/></g></g></g>
+</svg>
