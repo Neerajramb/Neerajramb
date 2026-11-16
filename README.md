@@ -14,7 +14,7 @@
 
 <img src="./assets/h-works.svg" width="100%" alt="No. 02 — selected works"/>
 <p align="center">
-  <a href="https://github.com/Neerajramb/MindNest"><img src="./assets/project-mindnest.svg" width="49%" alt="MindNest — an AI companion for people living with Mild Cognitive Impairment. Face recognition, conversation memory with RAG, reminders, geofencing and caregiver alerts. Django REST, React Native, OpenCV, Gemini."/></a>
+  <a href="https://github.com/Neerajramb/MindNest"><img src="./assets/project-mindnest-v2.svg" width="49%" alt="MindNest — an AI companion for people living with Mild Cognitive Impairment. Face recognition, conversation memory with RAG, reminders, geofencing and caregiver alerts. Django REST, React Native, OpenCV, Gemini."/></a>
   <a href="https://github.com/Neerajramb/InferaV3"><img src="./assets/project-infera.svg" width="49%" alt="InferaV3 — a self-hosted knowledge workspace that answers from your documents with citations. MiniLM embeddings and FAISS search, permissions enforced on every retrieval, local LLM via Ollama. Django, React + TypeScript, FAISS, Ollama."/></a>
 </p>
 
