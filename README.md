@@ -23,7 +23,7 @@ I thrive on solving complex problems and I'm always eager to learn new technolog
 
 💬 Feel free to ask me about Python, Data Science, or Web Development.
 
-📫 You can reach me at: neerajramn@gmail.com
+📫 You can reach me at: neerajramm@gmail.com
 
 ⚡ Fun fact: I believe that with the right logic, any idea can be turned into reality through code.
 
