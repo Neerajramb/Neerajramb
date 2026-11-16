@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="InferaV3: Self-hosted knowledge workspace: ask your documents, get cited answers. MiniLM embeddings + FAISS search, reranked; Permissions enforced on every retrieval; Local LLM via Ollama, streamed token by token. Built with Django, React + TS, FAISS, Ollama.">
+<style>
+  .t { font: 800 34px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #E6EDF3; letter-spacing: -.5px; }
+  .s { font: 500 21px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #C9D1D9; }
+  .b { font: 400 19px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #8B949E; }
+  .tag { font: 600 15px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #E6EDF3; }
+  .role { font: 600 15px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #F472B6; }
+  .link { font: 600 15px 'Inter','Segoe UI','SF Pro Display',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif; fill: #8B949E; }
+  .rise { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
+  .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.6s cubic-bezier(.6,0,.2,1) .1s forwards; }
+  .spin { transform-box: view-box; transform-origin: 300.0px 200.0px; }
+  .orb { transform-box: fill-box; transform-origin: center; animation: drift 14s ease-in-out infinite alternate; }
+  .arrow { transform-box: fill-box; animation: nudge 2.2s ease-in-out infinite; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes drift { to { transform: translate(-120px, 60px) scale(1.2); } }
+  @keyframes nudge { 50% { transform: translate(3px, -3px); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .draw { stroke-dashoffset: 0; } }
+</style>
+<defs>
+  <clipPath id="cc"><rect width="600" height="400" rx="24"/></clipPath>
+  <filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+  <linearGradient id="ring" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="400">
+    <stop offset="0" stop-color="#22D3EE"/><stop offset=".45" stop-color="#fff" stop-opacity=".08"/><stop offset=".55" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#F472B6"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 300.0 200.0;360 300.0 200.0" dur="9s" repeatCount="indefinite"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".07"/></pattern>
+</defs>
+<g clip-path="url(#cc)">
+  <rect width="600" height="400" fill="#0D1117"/>
+  <rect width="600" height="400" fill="url(#dots)"/>
+  <g filter="url(#bl)" opacity=".5"><circle class="orb" cx="520" cy="60" r="110" fill="#22D3EE"/></g>
+</g>
+<rect x="1.5" y="1.5" width="597" height="397" rx="23" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="397" rx="23" fill="none" stroke="url(#ring)" stroke-width="2" pathLength="1" class="draw"/>
+<g class="rise" style="animation-delay:.15s">
+  <rect x="36" y="34" width="60" height="60" rx="16" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".5"/>
+  <rect x="50" y="48" width="26" height="32" rx="4" fill="none" stroke="#22D3EE" stroke-width="2.2" opacity=".55"/><rect x="55" y="44" width="26" height="32" rx="4" fill="#0D1117" stroke="#22D3EE" stroke-width="2.2"/><path d="M61 54h14M61 61h14M61 68h9" stroke="#F472B6" stroke-width="2.2" stroke-linecap="round"/><rect x="50" y="52" width="36" height="3" rx="1.5" fill="#F472B6" opacity=".8"><animate attributeName="y" values="46;76;46" dur="2.6s" repeatCount="indefinite"/></rect>
+</g>
+<g class="rise" style="animation-delay:.25s">
+  <text x="112" y="76" class="t">InferaV3</text>
+  <rect x="460" y="44" width="104" height="30" rx="15" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".4"/>
+  <text x="511.8" y="64" text-anchor="middle" class="role">Solo build</text>
+</g>
+<text x="36" y="142" class="s rise" style="animation-delay:.4s"><tspan x="36" dy="0">Self-hosted knowledge workspace: ask</tspan><tspan x="36" dy="27">your documents, get cited answers</tspan></text>
+<g class="rise" style="animation-delay:0.55s"><circle cx="44" cy="224" r="4" fill="#F472B6"/><text x="60" y="230" class="b">MiniLM embeddings + FAISS search, reranked</text></g><g class="rise" style="animation-delay:0.70s"><circle cx="44" cy="260" r="4" fill="#F472B6"/><text x="60" y="266" class="b">Permissions enforced on every retrieval</text></g><g class="rise" style="animation-delay:0.85s"><circle cx="44" cy="296" r="4" fill="#F472B6"/><text x="60" y="302" class="b">Local LLM via Ollama, streamed token by token</text></g>
+<g class="rise" style="animation-delay:1.1s"><rect x="36" y="332" width="81" height="32" rx="16" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/><text x="76.3" y="353" text-anchor="middle" class="tag">Django</text><rect x="127" y="332" width="111" height="32" rx="16" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/><text x="181.8" y="353" text-anchor="middle" class="tag">React + TS</text><rect x="247" y="332" width="71" height="32" rx="16" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/><text x="282.5" y="353" text-anchor="middle" class="tag">FAISS</text><rect x="328" y="332" width="79" height="32" rx="16" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/><text x="367.7" y="353" text-anchor="middle" class="tag">Ollama</text></g>
+<g class="rise" style="animation-delay:1.3s"><text x="560" y="102" text-anchor="end" class="link">View repo <tspan class="arrow" fill="#F472B6">↗</tspan></text></g>
+</svg>

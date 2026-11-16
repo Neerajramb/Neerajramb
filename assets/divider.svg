@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" aria-hidden="true">
+<defs>
+  <linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".45"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="13" width="1200" height="2" fill="url(#base)"/>
+<ellipse cx="0" cy="14" rx="90" ry="6" fill="url(#glow)" opacity=".9">
+  <animate attributeName="cx" values="-100;1300" dur="4.5s" repeatCount="indefinite"/>
+</ellipse>
+<circle cx="600" cy="14" r="4" fill="#F472B6"><animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
