@@ -25,7 +25,7 @@
 <img src="./assets/tech-stack.svg" width="100%" alt="Languages: C, Java, Python, JavaScript, SQL, HTML5, CSS3, PowerShell. Web and APIs: React, Node.js, Django, REST APIs. AI and ML: OpenCV, Whisper, FAISS, ChromaDB, Gemini API, Sentence Transformers. Data science: Pandas, NumPy, Matplotlib. Databases: SQLite, PostgreSQL, MySQL. Design and audio: Photoshop, Lightroom, Figma, Framer, Canva, Audacity, Ableton Live. Tools: Git, GitHub."/>
 
 <img src="./assets/h-beyond.svg" width="100%" alt="No. 04 — beyond the code"/>
-<img src="./assets/beyond.svg" width="100%" alt="Beyond the code. Photography: photography and photo editing in Lightroom, plus Photoshop compositing with a cinematic, editorial eye. Design: brand identities, type and colour for the music communities BLANC. and Niram. Music: violinist in a band, playing live gigs and recording at home; I write lyrics in Tamil, too. Sport: competitive athlete and badminton player; won the SCT SBL campus tournament."/>
+<img src="./assets/beyond.svg" width="100%" alt="Beyond the code. Photography: photography and photo editing in Lightroom, plus Photoshop compositing with a cinematic, editorial eye. Design: visual design in Photoshop, Figma and Framer, with a love for type, colour and layout. Music: a violinist and gigging musician, playing live shows with my band. Sport: competitive athlete and district-level badminton player."/>
 
 <img src="./assets/h-exploring.svg" width="100%" alt="No. 05 — currently exploring"/>
 <img src="./assets/exploring.svg" width="100%" alt="What I'm growing into: multimodal AI (vision, speech and language, working together); RAG (retrieval-augmented generation, with citations); local LLMs (running models privately, on my own machine); AI for care (assistive tech that is gentle and honest); interpretability (how language models think, from the inside)."/>
@@ -38,7 +38,5 @@
     <img src="https://raw.githubusercontent.com/Neerajramb/Neerajramb/output/github-snake.svg" width="100%" alt="A snake wandering through my contribution graph"/>
   </picture>
 </p>
-
-<img src="./assets/quote.svg" width="100%" alt="A framed painting of my motto: With the right logic, any idea can be turned into reality through code."/>
 
 <img src="./assets/footer.svg" width="100%" alt="Thank you for stopping by — let's make something beautiful together. Neeraj"/>
