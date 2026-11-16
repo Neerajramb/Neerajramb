@@ -24,19 +24,13 @@
 </p>
 <img src="./assets/tech-stack.svg" width="100%" alt="Languages: C, Java, Python, JavaScript, SQL, HTML5, CSS3, PowerShell. Web and APIs: React, Node.js, Django, REST APIs. AI and ML: OpenCV, Whisper, FAISS, ChromaDB, Gemini API, Sentence Transformers. Data science: Pandas, NumPy, Matplotlib. Databases: SQLite, PostgreSQL, MySQL. Design and audio: Photoshop, Lightroom, Figma, Framer, Canva, Audacity, Ableton Live. Tools: Git, GitHub."/>
 
-<img src="./assets/h-numbers.svg" width="100%" alt="No. 04 — in numbers"/>
-<p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Neeraj's GitHub stats"/>
-  <img width="49%" src="./profile/top-langs.svg" alt="Top languages"/>
-</p>
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Neerajramb&background=F5EEE3&border=E3D6C3&stroke=E3D6C3&ring=C4553B&fire=E7B0A1&currStreakNum=2B2622&sideNums=2B2622&currStreakLabel=C4553B&sideLabels=5B5047&dates=8A7D70&border_radius=22" alt="GitHub streak"/>
-</p>
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajramb&bg_color=F5EEE3&color=5B5047&title_color=C4553B&line=7E8F57&point=C4553B&area=true&area_color=A9B98A&hide_border=true&radius=22&custom_title=a%20year%20of%20making" alt="Contribution activity graph"/>
-</p>
+<img src="./assets/h-beyond.svg" width="100%" alt="No. 04 — beyond the code"/>
+<img src="./assets/beyond.svg" width="100%" alt="Beyond the code. Photography: photography and photo editing in Lightroom, plus Photoshop compositing with a cinematic, editorial eye. Design: brand identities, type and colour for the music communities BLANC. and Niram. Music: violinist in a band, playing live gigs and recording at home; I write lyrics in Tamil, too. Sport: competitive athlete and badminton player; won the SCT SBL campus tournament."/>
 
-<img src="./assets/h-garden.svg" width="100%" alt="No. 05 — the contribution garden"/>
+<img src="./assets/h-exploring.svg" width="100%" alt="No. 05 — currently exploring"/>
+<img src="./assets/exploring.svg" width="100%" alt="What I'm growing into: multimodal AI (vision, speech and language, working together); RAG (retrieval-augmented generation, with citations); local LLMs (running models privately, on my own machine); AI for care (assistive tech that is gentle and honest); interpretability (how language models think, from the inside)."/>
+
+<img src="./assets/h-garden.svg" width="100%" alt="No. 06 — the contribution garden"/>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neerajramb/Neerajramb/output/github-snake-dark.svg"/>
@@ -44,5 +38,7 @@
     <img src="https://raw.githubusercontent.com/Neerajramb/Neerajramb/output/github-snake.svg" width="100%" alt="A snake wandering through my contribution graph"/>
   </picture>
 </p>
+
+<img src="./assets/quote.svg" width="100%" alt="A framed painting of my motto: With the right logic, any idea can be turned into reality through code."/>
 
 <img src="./assets/footer.svg" width="100%" alt="Thank you for stopping by — let's make something beautiful together. Neeraj"/>
